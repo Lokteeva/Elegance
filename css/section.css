@@ -1,0 +1,29 @@
+/* section */
+.featured {
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+.section-header {
+  margin-bottom: 40px;
+}
+.section-header__title {
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  font-size: 42px;
+  line-height: 56px;
+  font-weight: 400;
+  text-align: center;
+  color: #000;
+  margin-bottom: 10px;
+}
+.section-header__description {
+  max-width: 630px;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  color: #999;
+  margin: 0 auto;
+}
+.section-header__description--uppercase {  
+  text-transform: uppercase;
+}
